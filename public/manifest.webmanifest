@@ -1,0 +1,17 @@
+{
+  "name": "Algo Lane",
+  "short_name": "Algo Lane",
+  "description": "難易度と分野から、次に解くAtCoderの5問を選ぶ。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ecebe6",
+  "theme_color": "#1a201e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

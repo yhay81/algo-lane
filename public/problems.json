@@ -1,0 +1,401 @@
+[
+  {
+    "id": "abc086_a",
+    "contest": "abc086",
+    "title": "Product",
+    "difficulty": -864,
+    "topic": "implementation"
+  },
+  {
+    "id": "abc081_a",
+    "contest": "abc081",
+    "title": "Placing Marbles",
+    "difficulty": -418,
+    "topic": "implementation"
+  },
+  {
+    "id": "abc081_b",
+    "contest": "abc081",
+    "title": "Shift only",
+    "difficulty": -12,
+    "topic": "implementation"
+  },
+  {
+    "id": "abc087_b",
+    "contest": "abc087",
+    "title": "Coins",
+    "difficulty": 161,
+    "topic": "implementation"
+  },
+  {
+    "id": "abc083_b",
+    "contest": "abc083",
+    "title": "Some Sums",
+    "difficulty": 62,
+    "topic": "implementation"
+  },
+  {
+    "id": "abc085_b",
+    "contest": "abc085",
+    "title": "Kagami Mochi",
+    "difficulty": -106,
+    "topic": "implementation"
+  },
+
+  {
+    "id": "abc085_c",
+    "contest": "abc085",
+    "title": "Otoshidama",
+    "difficulty": 584,
+    "topic": "search"
+  },
+  { "id": "abc106_b", "contest": "abc106", "title": "105", "difficulty": -75, "topic": "search" },
+  {
+    "id": "abc128_c",
+    "contest": "abc128",
+    "title": "Switches",
+    "difficulty": 805,
+    "topic": "search"
+  },
+  {
+    "id": "abc190_c",
+    "contest": "abc190",
+    "title": "Bowls and Dishes",
+    "difficulty": 472,
+    "topic": "search"
+  },
+  {
+    "id": "abc212_c",
+    "contest": "abc212",
+    "title": "Min Difference",
+    "difficulty": 205,
+    "topic": "search"
+  },
+  {
+    "id": "abc229_d",
+    "contest": "abc229",
+    "title": "Longest X",
+    "difficulty": 745,
+    "topic": "search"
+  },
+
+  {
+    "id": "abc122_b",
+    "contest": "abc122",
+    "title": "ATCoder",
+    "difficulty": -122,
+    "topic": "string"
+  },
+  {
+    "id": "abc064_d",
+    "contest": "abc064",
+    "title": "Insertion",
+    "difficulty": 969,
+    "topic": "string"
+  },
+  {
+    "id": "abc158_d",
+    "contest": "abc158",
+    "title": "String Formation",
+    "difficulty": 610,
+    "topic": "string"
+  },
+  { "id": "abc199_c", "contest": "abc199", "title": "IPFL", "difficulty": 436, "topic": "string" },
+  {
+    "id": "abc219_b",
+    "contest": "abc219",
+    "title": "Maritozzo",
+    "difficulty": -842,
+    "topic": "string"
+  },
+  {
+    "id": "abc259_c",
+    "contest": "abc259",
+    "title": "XX to XXX",
+    "difficulty": 451,
+    "topic": "string"
+  },
+
+  {
+    "id": "abc088_a",
+    "contest": "abc088",
+    "title": "Infinite Coins",
+    "difficulty": -535,
+    "topic": "math"
+  },
+  {
+    "id": "abc100_a",
+    "contest": "abc100",
+    "title": "Happy Birthday!",
+    "difficulty": -382,
+    "topic": "math"
+  },
+  {
+    "id": "abc102_b",
+    "contest": "abc102",
+    "title": "Maximum Difference",
+    "difficulty": -328,
+    "topic": "math"
+  },
+  { "id": "abc108_a", "contest": "abc108", "title": "Pair", "difficulty": -703, "topic": "math" },
+  { "id": "abc139_d", "contest": "abc139", "title": "ModSum", "difficulty": 354, "topic": "math" },
+  {
+    "id": "abc156_d",
+    "contest": "abc156",
+    "title": "Bouquet",
+    "difficulty": 1014,
+    "topic": "math"
+  },
+
+  {
+    "id": "abc088_b",
+    "contest": "abc088",
+    "title": "Card Game for Two",
+    "difficulty": -182,
+    "topic": "greedy"
+  },
+  {
+    "id": "abc131_d",
+    "contest": "abc131",
+    "title": "Megalomania",
+    "difficulty": 588,
+    "topic": "greedy"
+  },
+  {
+    "id": "abc141_d",
+    "contest": "abc141",
+    "title": "Powerful Discount Tickets",
+    "difficulty": 823,
+    "topic": "greedy"
+  },
+  {
+    "id": "abc149_d",
+    "contest": "abc149",
+    "title": "Prediction and Restriction",
+    "difficulty": 719,
+    "topic": "greedy"
+  },
+  {
+    "id": "abc167_b",
+    "contest": "abc167",
+    "title": "Easy Linear Programming",
+    "difficulty": -379,
+    "topic": "greedy"
+  },
+  {
+    "id": "abc195_b",
+    "contest": "abc195",
+    "title": "Many Oranges",
+    "difficulty": 483,
+    "topic": "greedy"
+  },
+
+  {
+    "id": "abc240_d",
+    "contest": "abc240",
+    "title": "Strange Balls",
+    "difficulty": 570,
+    "topic": "data_structure"
+  },
+  {
+    "id": "abc247_d",
+    "contest": "abc247",
+    "title": "Cylinder",
+    "difficulty": 468,
+    "topic": "data_structure"
+  },
+  {
+    "id": "abc253_c",
+    "contest": "abc253",
+    "title": "Max - Min Query",
+    "difficulty": 518,
+    "topic": "data_structure"
+  },
+  {
+    "id": "abc217_d",
+    "contest": "abc217",
+    "title": "Cutting Woods",
+    "difficulty": 802,
+    "topic": "data_structure"
+  },
+  {
+    "id": "abc278_d",
+    "contest": "abc278",
+    "title": "All Assign Point Add",
+    "difficulty": 559,
+    "topic": "data_structure"
+  },
+  {
+    "id": "abc298_d",
+    "contest": "abc298",
+    "title": "Writing a Numeral",
+    "difficulty": 882,
+    "topic": "data_structure"
+  },
+
+  {
+    "id": "abc037_c",
+    "contest": "abc037",
+    "title": "総和",
+    "difficulty": 915,
+    "topic": "prefix_sum"
+  },
+  {
+    "id": "abc122_c",
+    "contest": "abc122",
+    "title": "GeT AC",
+    "difficulty": 700,
+    "topic": "prefix_sum"
+  },
+  {
+    "id": "abc183_d",
+    "contest": "abc183",
+    "title": "Water Heater",
+    "difficulty": 662,
+    "topic": "prefix_sum"
+  },
+  {
+    "id": "abc188_d",
+    "contest": "abc188",
+    "title": "Snuke Prime",
+    "difficulty": 933,
+    "topic": "prefix_sum"
+  },
+  {
+    "id": "abc255_d",
+    "contest": "abc255",
+    "title": "±1 Operation 2",
+    "difficulty": 788,
+    "topic": "prefix_sum"
+  },
+  {
+    "id": "abc267_c",
+    "contest": "abc267",
+    "title": "Index × A (Continuous ver.)",
+    "difficulty": 524,
+    "topic": "prefix_sum"
+  },
+
+  {
+    "id": "abc023_d",
+    "contest": "abc023",
+    "title": "射撃王",
+    "difficulty": 1843,
+    "topic": "binary_search"
+  },
+  {
+    "id": "arc084_a",
+    "contest": "abc077",
+    "title": "Snuke Festival",
+    "difficulty": 1096,
+    "topic": "binary_search"
+  },
+  {
+    "id": "abc146_c",
+    "contest": "abc146",
+    "title": "Buy an Integer",
+    "difficulty": 741,
+    "topic": "binary_search"
+  },
+  {
+    "id": "abc174_e",
+    "contest": "abc174",
+    "title": "Logs",
+    "difficulty": 1227,
+    "topic": "binary_search"
+  },
+  {
+    "id": "abc205_d",
+    "contest": "abc205",
+    "title": "Kth Excluded",
+    "difficulty": 713,
+    "topic": "binary_search"
+  },
+  {
+    "id": "abc236_e",
+    "contest": "abc236",
+    "title": "Average and Median",
+    "difficulty": 1893,
+    "topic": "binary_search"
+  },
+
+  {
+    "id": "abc007_3",
+    "contest": "atc002",
+    "title": "幅優先探索",
+    "difficulty": 1024,
+    "topic": "graph"
+  },
+  {
+    "id": "abc168_d",
+    "contest": "abc168",
+    "title": ".. (Double Dots)",
+    "difficulty": 804,
+    "topic": "graph"
+  },
+  {
+    "id": "abc177_d",
+    "contest": "abc177",
+    "title": "Friends",
+    "difficulty": 732,
+    "topic": "graph"
+  },
+  { "id": "abc204_c", "contest": "abc204", "title": "Tour", "difficulty": 629, "topic": "graph" },
+  {
+    "id": "abc211_d",
+    "contest": "abc211",
+    "title": "Number of Shortest paths",
+    "difficulty": 755,
+    "topic": "graph"
+  },
+  {
+    "id": "abc231_d",
+    "contest": "abc231",
+    "title": "Neighbors",
+    "difficulty": 726,
+    "topic": "graph"
+  },
+
+  {
+    "id": "abc040_c",
+    "contest": "abc040",
+    "title": "柱柱柱柱柱",
+    "difficulty": 896,
+    "topic": "dynamic_programming"
+  },
+  {
+    "id": "abc129_c",
+    "contest": "abc129",
+    "title": "Typical Stairs",
+    "difficulty": 796,
+    "topic": "dynamic_programming"
+  },
+  {
+    "id": "abc135_d",
+    "contest": "abc135",
+    "title": "Digits Parade",
+    "difficulty": 1334,
+    "topic": "dynamic_programming"
+  },
+  {
+    "id": "abc153_e",
+    "contest": "abc153",
+    "title": "Crested Ibis vs Monster",
+    "difficulty": 1015,
+    "topic": "dynamic_programming"
+  },
+  {
+    "id": "dp_a",
+    "contest": "dp",
+    "title": "Frog 1",
+    "difficulty": 250,
+    "topic": "dynamic_programming"
+  },
+  {
+    "id": "dp_b",
+    "contest": "dp",
+    "title": "Frog 2",
+    "difficulty": 450,
+    "topic": "dynamic_programming"
+  }
+]

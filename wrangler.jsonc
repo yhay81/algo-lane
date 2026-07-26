@@ -1,0 +1,37 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "algo-lane",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-26",
+  "workers_dev": true,
+  "preview_urls": false,
+  "observability": {
+    "enabled": true,
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/", "/privacy", "/api/*", "/healthz"],
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "algo-lane",
+      "database_id": "10307fb1-1e58-4081-af5b-e2e47d5abe2b",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "ratelimits": [
+    {
+      "name": "WRITE_LIMITER",
+      "namespace_id": "92072612",
+      "simple": {
+        "limit": 30,
+        "period": 60,
+      },
+    },
+  ],
+  "triggers": {
+    "crons": ["47 3 * * *"],
+  },
+}

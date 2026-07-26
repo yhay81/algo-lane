@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://algo-lane.yusuke8h.workers.dev/sitemap.xml
