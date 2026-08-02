@@ -5,6 +5,7 @@
   "compatibility_date": "2026-07-26",
   "workers_dev": true,
   "preview_urls": false,
+  "routes": [{ "pattern": "algo-lane.yhay81.com", "custom_domain": true }],
   "observability": {
     "enabled": true,
   },

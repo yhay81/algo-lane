@@ -5,5 +5,5 @@ export const product = {
   headline: "次に解く5問を、一本のレーンへ",
   name: "Algo Lane",
   slug: "algo-lane",
-  url: "https://algo-lane.yusuke8h.workers.dev",
+  url: "https://algo-lane.yhay81.com",
 } as const;
